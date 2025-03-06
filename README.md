@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lukasz Marciszewski
 - 👀 I’m interested in frontend technologies and JavaScript ecosystem
-- 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking to collaborate on some frontend topics
 - 📫 How to reach me: lmarciszewski1@gmail.com
 
